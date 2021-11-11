@@ -1,3 +1,20 @@
+This project is a meme generator using React.
+I made this by following a tutorial that used the old version of class based States, so I included 
+a counter below the meme generator that is basically a component that uses useState and useEffect hooks, just as a way to display those methods.
+
+I explain the code in comments.
+
+There are a bunch of files in the project, but the only relevant ones are:
+App.js (this is the main one)
+and the component files: Header.js, MemeGenerator.js, and Counter.js.
+There is also a Notes.js file where there is a bunch of notes about react.
+
+
+------
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
