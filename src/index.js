@@ -4,10 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//This is where the website is rendered from
 ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  
   document.getElementById('root')
 );
 
